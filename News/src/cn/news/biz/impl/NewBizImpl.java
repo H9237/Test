@@ -58,4 +58,8 @@ public class NewBizImpl implements NewBiz {
 	public void delNewById(Long id) {
 		newMapper.delNewById(id);
 	}
+
+	public void hahaha() {
+
+	}
 }
